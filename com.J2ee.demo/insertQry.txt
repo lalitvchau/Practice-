@@ -1,0 +1,1 @@
+INSERT INTO student_info(regno,first_name,middle_name,last_name) values(?,?,?,?)
